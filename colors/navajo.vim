@@ -14,8 +14,12 @@ endif
 
 let g:colors_name = "navajo"
 
-hi Normal ctermfg=Black guifg=Black guibg=#b39674
+" looks good on Linux
+"hi Normal ctermfg=Black guifg=Black guibg=#b39674
 "hi Normal ctermfg=Black guifg=Black guibg=NavajoWhite3
+
+" slightly brighter for w32
+hi Normal ctermfg=Black guifg=Black guibg=#ba9c80
 
 hi SpecialKey term=bold ctermfg=DarkBlue guifg=Blue
 hi NonText term=bold ctermfg=DarkBlue cterm=bold gui=bold guifg=#808080
