@@ -1,0 +1,24 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=190
+
+The colorschemes I've seen on vim.sf.net seem to all have dark
+backgrounds, but the dark backgrounds really bother my eyes.
+Also, the default white background of gvim is too bright for me.
+Perhaps I'm alone, but a nice off-white background allows me to
+merrily spend all day long staring at screen after screen after
+screen of code, day after day, week after week, year after
+year...  Editing code, reviewing code, documenting code,
+debugging code, dreaming code in the nightmare that has become my
+life... Oh, well -- at least this pleasant little colorscheme helps me
+get through the day.
+The screen capture at http://vim.eralston.net/?id=navajo should help you
+decide whether this colorscheme is right for you.
+
+Your first impression may be that the background is kinda ugly,
+and I guess that's probably true.  But hey, I find it much more
+readable, and it sure beats a poke in the eye with a sharp stick.
+It works well in the gui, and to get a similar background
+in a color xterm, start your xterm with
+"xterm -bg NavajoWhite3 -fg black"
+
+If you have any questions, feel free to ask; but to save you the
+time and effort, the answer will invariably be 42.
